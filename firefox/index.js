@@ -1,1 +1,1 @@
-document.body.style.border = "2em solid red"
+document.getElementById('top-level-buttons-computed').childNodes[2].firstChild.lastChild.innerhtml = "hej"

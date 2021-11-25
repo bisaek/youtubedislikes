@@ -12,7 +12,7 @@
   
     "content_scripts": [
       {
-        "matches": ["*://*.youtube.com/"],
+        "matches": ["*://*.youtube.com/watch?v=*"],
         "js": ["index.js"]
       }
     ]
