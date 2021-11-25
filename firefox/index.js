@@ -1,1 +1,1 @@
-document.getElementById('top-level-buttons-computed').childNodes[2].firstChild.lastChild.innerhtml = "hej"
+document.getElementsByClassName('top-level-buttons')[1].childNodes[1].firstChild.childNodes[1].innerHTML = "hej"
